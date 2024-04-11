@@ -1,7 +1,15 @@
 
-# Video Shorts Platform: VidTube
+# VidTube
 
 VidTube is a dynamic video shorts platform designed for users to discover, create, and share short videos across various genres. With an intuitive interface and a diverse content library, VidTube fosters creativity, facilitates connections, and provides an engaging community experience.
+
+
+## API Reference
+- Backend API Link: [https://internship-service.onrender.com/videos](https://internship-service.onrender.com/videos)
+
+## Frontend Deployment
+- Frontend Deployed Link: [https://hypergro-nu.vercel.app/](https://hypergro-nu.vercel.app/)
+
 
 ## Getting Started
 
