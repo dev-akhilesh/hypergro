@@ -75,12 +75,13 @@ const SinglePage = () => {
     <div className="container mx-auto mt-8 relative">
       <button
         onClick={handleGoBack}
-        className="text-xl absolute top-0 left-0 mt-4 ml-4 cursor-pointer hover:text-blue-500 focus:outline-none"
+        className="text-5xl absolute -top-12 left-0 mt-4 ml-4 cursor-pointer hover:text-blue-500 focus:outline-none"
       >
         &#8592; {/* Left arrow */}
       </button>
+
       <div className="lg:flex lg:justify-center">
-        <div className="lg:w-[35%] mr-4 rounded-xl overflow-hidden">
+        <div className="lg:w-[35%] mx-4  rounded-xl overflow-hidden">
           <video
             src={post.submission.mediaUrl}
             controls={false}
